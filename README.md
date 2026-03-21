@@ -27,7 +27,7 @@ Passionate about exploring technology and building skills in Android Development
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,react,androidstudio,vscode,visualstudio,linux,git,github&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=cs,python,react,androidstudio,vscode,visualstudio,linux,git,github&perline=10"/>
 </p>
 
 ---
