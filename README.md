@@ -90,12 +90,15 @@ Passionate about exploring technology and building skills in Android Development
 ## 📫 Connect With Me
 
 <p align="center">
+
   <a href="mailto:ar8110598@gmail.com">
-    <img src="https://img.shields.io/badge/Email-5f36c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4b2bb0"/>
+    <img src="https://img.icons8.com/color/96/gmail--v1.png" width="55" />
   </a>
+
   <a href="https://www.linkedin.com/in/abdul-rahman00/">
-    <img src="https://img.shields.io/badge/LinkedIn-5f36c6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4b2bb0"/>
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="55" />
   </a>
+
 </p>
 
 ---
