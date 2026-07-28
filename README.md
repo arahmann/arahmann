@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&color=5F36C6&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Abdul+Rahman;BSCS+Student;Cyber+Security+Learner;Android+Developer;Networking+Enthusiast"/>
 </p>
 
-<h3 align="center">💻 BSCS Student | 🚀 Tech Explorer | 🔐 Cyber Security Enthusiast</h3>
+<h3 align="center">💻 BSCS Student | 🚀 Tech Explorer | 🌐 Networking & Clouds</h3>
 
 <p align="center">
 Passionate about exploring technology and building skills in Android Development, Networking, and Cyber Security.
